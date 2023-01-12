@@ -16,7 +16,7 @@ const iconStyle = {
   position: 'absolute',
   top: '35px',
   left: '8px',
-  fill: '#082911',
+  fill: '#00008B',
   /* transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1), */
 };
 
@@ -32,12 +32,10 @@ export const LocalPhoneIconStyle = () => (
 
 export const SearchIconStyle = () => <SearchIcon sx={{ ...iconStyle }} />;
 
-export const VisibilityIconStyle = () => (
-  <VisibilityIcon sx={{ fill: '#082911' }} />
-);
+export const VisibilityIconStyle = () => <VisibilityIcon sx={{ fill: '#00008B' }} />;
 
 export const VisibilityOffIconStyle = () => (
-  <VisibilityOffIcon sx={{ fill: '#082911' }} />
+  <VisibilityOffIcon sx={{ fill: '#00008B' }} />
 );
 
 export const AvatarStyle = ({ letter, color }) => (
