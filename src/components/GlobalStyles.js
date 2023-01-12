@@ -100,7 +100,7 @@ export const WarningMessage = styled.p`
 `;
 
 export const FallingLinesStyled = {
-  color: '#082911',
+  color: '#1E90FF',
   width: '70',
   visible: true,
   ariaLabel: 'falling-lines-loading',
