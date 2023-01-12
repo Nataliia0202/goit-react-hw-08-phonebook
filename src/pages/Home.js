@@ -12,10 +12,7 @@ export const Home = () => {
         height="160"
         style={{ margin: '0 auto' }}
       />
-      <SecondTitle style={{ marginTop: '30px' }}>
-        It seems that you have finally found a site where you can conveniently
-        store all your contacts and have access to them from any device.
-      </SecondTitle>
+      
       <SecondTitle>Ready to work? </SecondTitle>
       <NavigateButton />
     </MainWrap>
