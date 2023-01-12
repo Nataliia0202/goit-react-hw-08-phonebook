@@ -96,7 +96,7 @@ export const WarningMessage = styled.p`
   text-align: center;
   font-weight: ${p => p.theme.fontWeights.medium};
   font-size: ${p => p.theme.fontSizes.m};
-  color: ${p => p.theme.colors.almostDarkGreen};
+  color: ${p => p.theme.colors.reallyBisque};
 `;
 
 export const FallingLinesStyled = {

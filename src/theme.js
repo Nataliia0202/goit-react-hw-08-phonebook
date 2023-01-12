@@ -7,7 +7,7 @@ export const theme = {
     purpleIsh: '#609',
     notPink: '#cf948b',
     ohSoOrange: '#ff9f33',
-    almostDarkGreen: '#0000FF',
+    almostDarkGreen: '#1E90FF',
     maybeYellow: '#fff',
     midnightGrey: '#686868',
     reallyBisque: '#fff',

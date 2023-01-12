@@ -21,7 +21,7 @@ export const AppBar = () => {
       maxWidth="1280px"
       mb={5}
       p={4}
-      bg="#0000FF"
+      bg="#1E90FF"
       boxShadow="shadow"
     >
       <Navigation />

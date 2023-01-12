@@ -64,7 +64,7 @@ export const GitHubIconStyle = () => (
       sx={{
         width: '33px',
         height: '33px',
-        fill: 'bisque',
+        fill: '#fff',
       }}
     />
   </FooterLink>
@@ -80,7 +80,7 @@ export const LinkedInIconStyle = () => (
       sx={{
         width: '39px',
         height: '39px',
-        fill: 'bisque',
+        fill: '#fff',
       }}
     />
   </FooterLink>

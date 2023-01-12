@@ -7,7 +7,7 @@ export const LabelFilter = styled(ClassicLabelForm)`
   width: 240px;
   margin: 0 auto;
   text-align: center;
-  color: ${p => p.theme.colors.almostDarkGreen};
+  color: ${p => p.theme.colors.reallyBisque};
 `;
 
 export const InputFilter = styled(ClassicInputForm)`
